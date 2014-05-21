@@ -17,7 +17,7 @@ body {
   clear: both; }
 
 h1.title {
-  font-size: 70px;
+  font-size: 60px;
   font-weight: bold;
   margin: 0;
   display: block;
@@ -335,7 +335,7 @@ hr {
     background: url('../title-set/128.jpg'); 
     background-size: 100%}
   .tile.tile-256 .tile-inner {
-    background: url('../title-set/256.jpg'); 
+    background: url('../title-set/256.jpeg'); 
     background-size: 100%}
   .tile.tile-512 .tile-inner {
     background: url('../title-set/512.jpg'); 
